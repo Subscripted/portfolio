@@ -1,0 +1,8 @@
+@import 'tailwindcss';
+
+
+@theme {
+    --color-lighter-black: #100c0c;
+    --color-card-main: #121212;
+    --color-card-border: #1c1c1c
+}
